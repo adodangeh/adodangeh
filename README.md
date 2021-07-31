@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amir Dodangeh
 - 👀 I’m PhD Candidate in Computer Science
-- 🌱 I’m currently Cloud Architecture
+- 🌱 I’m currently Network and Cloud Architecture
 - 💞️ I’m intrested in Machine Learning,Deep Learning,Image Processing,CNN
 - 📫 a.dodangeh@live.com , 
 
